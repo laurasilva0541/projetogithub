@@ -2,4 +2,4 @@
 
 Texto inserido pelo repositorio local
 
-Texto inserido pelo repositorio remoto
+Texto2 inserido pelo repositorio remoto
